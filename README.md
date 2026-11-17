@@ -9,4 +9,5 @@ Hello this is owo website. made with 0 ai. The repo contains literally just READ
 ## Terrier Hub Server
 I am the owner of the largest, fastest-growing, and more active all-BU Discord server for the entire Boston University community.
 Join! discord.gg/bostonuniversity
-<iframe align="middle" src="https://discord.com/widget?id=1396541818245484665&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+style="margin:auto;"
+<iframe style="margin:auto;" align="middle" src="https://discord.com/widget?id=1396541818245484665&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
