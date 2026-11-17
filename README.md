@@ -7,4 +7,4 @@ Hello this is owo website. made with 0 ai. The repo contains literally just READ
 <img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/9c75bdaa-8272-4365-9d1c-32418f7ff2e4" />
 
 
-<iframe src="https://discord.com/widget?id=1396541818245484665&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+<iframe align="middle" src="https://discord.com/widget?id=1396541818245484665&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
